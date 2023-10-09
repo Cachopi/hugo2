@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingles</title>
+    <link>https://example.org/index.html</link>
+    <description>Recent content on Ingles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Sep 2023 09:02:20 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLOG</title>
+      <link>https://example.org/teoria/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 08:59:45 +0200</pubDate>
+      <guid>https://example.org/teoria/index.html</guid>
+      <description>esto es h1 esto es h2 esto es h3 esto es h4 esto es h5 esto es h6 esto es un parrafo de escritura lo que en html seria
+esto seria un salto de linea.
+Y aqui otro salto de linea.
+texto en negrita
+LINK
+codigo 1# the hardest part is to start writing code; here&amp;#39;s a kickstart; just copy and paste this; it&amp;#39;s free; the next lines will cost you serious credits 2print(&amp;#34;Hello&amp;#34;) 3print(&amp;#34;World&amp;#34;) 4print(&amp;#34;!</description>
+    </item>
+  </channel>
+</rss>
